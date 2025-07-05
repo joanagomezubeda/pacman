@@ -35,3 +35,10 @@ Each frame redraws:
 -Ghosts
 -Pac-Man
 
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/minesweeper.git
+   cd minesweeper
+
